@@ -1,6 +1,6 @@
 # Hi, I'm Eva 👋
 
-> I start with a question, then learn whatever tools are needed to answer it.
+### I start with a question, then learn whatever tools are needed to answer it.
 
 I'm curious about how complex systems work.
 
