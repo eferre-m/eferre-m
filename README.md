@@ -1,8 +1,8 @@
 # Hi, I'm Eva 👋
 
-### I start with a question, then learn whatever tools are needed to answer it.
+## I start with a question. <br>Then I learn whatever tools are needed to answer it.
 
-<img src="assets/minionpc.gif" width="400">
+  <img src="assets/minionpc.gif" width="240">
 
 ---
 
@@ -10,28 +10,31 @@
 
 I'm curious about how complex systems work.
 
-I build projects to explore them through data and software.
+I build projects that explore complex systems through data and software.
 
 I studied Sociology, where I learned to ask questions. Today, I use code and data to explore them.
 
+---
 
 ## Why?
 
-I'm interested in projects that begin with a real question.
-
 For me, technology is never the goal—it's a way to explore, understand and communicate ideas.
 
+That's why I'm interested in projects that begin with a real question rather than a technology.
+
+---
 
 ## How?
 
-**Sociology** — Learning to ask questions.
+**Sociology** → Learning to ask questions.
 
-**Photography** — Learning to observe.
+**Photography** → Learning to observe.
 
-**Programming** — Learning to build.
+**Programming** → Learning to build.
 
-**Today** — Exploring data, machine learning and computer vision.
+**Today** → Exploring data, machine learning and computer vision.
 
+---
 
 ## What's in my toolbox?
 
@@ -45,18 +48,21 @@ For me, technology is never the goal—it's a way to explore, understand and com
 
 ### Currently exploring
 
-- Data Analysis
-- Machine Learning
-- Computer Vision
+-  Data Analysis through real-world datasets.
+-  Machine Learning from first principles.
+-  Computer Vision.
 
-*Still asking questions.*
+**Still asking questions.**
 
+---
 
 ## What am I working on?
 
 ### DSLR
 
-Building a machine learning classifier from scratch.
+**How does a machine actually learn from data?**
+
+Building a multiclass logistic regression model from scratch to answer that question.
 
 **Current focus**
 
