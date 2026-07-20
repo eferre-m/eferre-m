@@ -2,7 +2,7 @@
 
 ### I start with a question, then learn whatever tools are needed to answer it.
 
-<img src="assets/minion.gif" width="200">
+<img src="assets/minionpc.gif" width="400">
 
 ---
 
