@@ -10,7 +10,7 @@
 
 I'm curious about how complex systems work.
 
-I build projects that explore complex systems through data and software.
+I build projects that explore them through data and software.
 
 I studied Sociology, where I learned to ask questions. Today, I use code and data to explore them.
 
@@ -18,7 +18,7 @@ I studied Sociology, where I learned to ask questions. Today, I use code and dat
 
 ## Why?
 
-For me, technology is never the goal-it's a way to explore, understand and communicate ideas.
+For me, technology is never the goal; it's a way to explore, understand and communicate ideas.
 
 That's why I'm interested in projects that begin with a real question rather than a technology.
 
