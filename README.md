@@ -18,7 +18,7 @@ I studied Sociology, where I learned to ask questions. Today, I use code and dat
 
 ## Why?
 
-For me, technology is never the goal—it's a way to explore, understand and communicate ideas.
+For me, technology is never the goal-it's a way to explore, understand and communicate ideas.
 
 That's why I'm interested in projects that begin with a real question rather than a technology.
 
