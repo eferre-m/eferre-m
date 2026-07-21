@@ -28,13 +28,13 @@ That's why I'm interested in projects that begin with a real question rather tha
 
 ## How?
 
-**Sociology** → Learning to ask questions.
+I started by learning to ask questions through **Sociology**.
 
-**Photography** → Learning to observe.
+**Photography** taught me to slow down and observe before drawing conclusions.
 
-**Programming** → Learning to build.
+**Programming** gave me the tools to test ideas instead of simply imagining them.
 
-**Today** → Exploring data, machine learning and computer vision.
+Today, I'm combining all three to explore **data**, **machine learning** and **computer vision**.
 
 ---
 
@@ -69,3 +69,16 @@ Building a multiclass logistic regression model from scratch to answer that ques
 - Logistic Regression
 - Data preparation
 - Model evaluation
+
+---
+
+## What's your question?
+
+Curiosity usually starts good conversations.
+
+Let's have one.
+
+[LinkedIn](https://www.linkedin.com/in/eva-ferre-mur/)
+
+eva.fmur@gmail.com
+
