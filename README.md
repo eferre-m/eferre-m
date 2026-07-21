@@ -12,7 +12,9 @@ I'm curious about how complex systems work.
 
 I build projects that explore them through data and software.
 
-My background in Sociology taught me to ask questions. Photography taught me to observe. Today, I use code and data to investigate both.
+My background in Sociology taught me to ask questions. Photography taught me to observe.
+
+Today, I use code and data to investigate both.
 
 Together, they've become three different ways of understanding the world.
 
@@ -76,9 +78,5 @@ Building a multiclass logistic regression model from scratch to answer that ques
 
 Curiosity usually starts good conversations.
 
-Let's have one.
-
-[LinkedIn](https://www.linkedin.com/in/eva-ferre-mur/)
-
-eva.fmur@gmail.com
+[Let's have one](https://www.linkedin.com/in/eva-ferre-mur/).
 
