@@ -12,7 +12,9 @@ I'm curious about how complex systems work.
 
 I build projects that explore them through data and software.
 
-I studied Sociology, where I learned to ask questions. Today, I use code and data to explore them.
+My background in Sociology taught me to ask questions. Photography taught me to observe. Today, I use code and data to investigate both.
+
+Together, they've become three different ways of understanding the world.
 
 ---
 
